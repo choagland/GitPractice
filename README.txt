@@ -1,3 +1,4 @@
 "Hello, Git" 
 Yay new line!
-Even more information
+Even more information\
+I added a line!
